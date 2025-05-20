@@ -1,0 +1,10 @@
+[general]
+name=PreEA Tool
+qgisMinimumVersion=3.0
+description=Automated generation of census enumeration areas
+version=1.0
+author=abrooo1
+email=your-email@example.com
+about=Generates census EAs using population data and geographic features.
+icon=icon.png
+category=Vector
